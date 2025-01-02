@@ -74,7 +74,7 @@ This project is licensed under the MIT License.
 
 
 ### 10. Notes:
-- Replace `https://github.com/jcastroo/agent-smith` with the actual repository URL, if applicable.
+- Replace `https://github.com/jcastroo/Agent-Smith` with the actual repository URL, if applicable.
 - Feel free to modify the content to better suit your specific needs or preferences.
 
 ### Created by João Castro.
